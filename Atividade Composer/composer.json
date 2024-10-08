@@ -1,0 +1,10 @@
+{
+    "name": "willi/atividade-form-composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}

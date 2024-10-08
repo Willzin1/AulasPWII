@@ -1,5 +1,5 @@
 {
-    "name": "willi/atividade-form-composer",
+    "name": "willi/atividade-formulario-com-bd",
     "type": "project",
     "autoload": {
         "psr-4": {
